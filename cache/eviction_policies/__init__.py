@@ -1,0 +1,4 @@
+from .EvictionPolicyBase import EvictionPolicyBase
+from .FIFOEvictionPolicy import FIFOEvictionPolicy
+from .LRUEvictionPolicy import LRUEvictionPolicy
+from .LIFOEvictionPolicy import LIFOEvictionPolicy
